@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="DmsFiles"
+  id="myeclipse.1481700800723"
+  context-root="/DmsFiles"
+  j2ee-spec="5.0"
+  archive="DmsFiles.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
